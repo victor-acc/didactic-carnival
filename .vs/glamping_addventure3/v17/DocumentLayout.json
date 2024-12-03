@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\inicio\\recuperar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\inicio\\recuperar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\reservas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\reservas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\abonoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\abonoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ViewState": "AgIAALIAAAAAAAAAAAAQwMMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:37:04.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recuperar.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Inicio\\Recuperar.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Inicio\\Recuperar.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Inicio\\Recuperar.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Inicio\\Recuperar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:37:01.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAQwKIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:32:40.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Reservas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Reservas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Reservas\\Edit.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Reservas\\Edit.cshtml",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAQwGsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:32:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Create.cshtml",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAEBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:19:18.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Servicios\\Index.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAABkBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T23:08:52.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Reservas\\Index.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T22:59:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAANkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T22:53:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Usuarios\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\source\\repos\\supreme-parakeet-main\\glamping_addventure3\\Views\\Usuarios\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Usuarios\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:08:33.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
